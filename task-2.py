@@ -7,5 +7,5 @@
 # assert var1 == "Пиі"
 
 user_tuple_word = tuple(input('Enter the word: '))
-print(user_tuple_word[0::2])
-
+new_str = list.append(user_tuple_word[0::2])
+print(new_str)
